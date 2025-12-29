@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8">
+  <title>從護理到航空｜專業藍圖</title>
+
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css">
+  <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/theme/white.css">
+</head>
+<body>
+
+<div class="reveal">
+<div class="slides">
+
+<!-- Page 1 -->
+<section>
+  <img src="images/page1.png" style="height:650px;">
+</section>
+
+<!-- Page 2 -->
+<section>
+  <img src="images/page2.png" style="height:650px;">
+</section>
+
+<!-- Page 3 -->
+<section>
+  <img src="images/page3.png" style="height:650px;">
+</section>
+
+<!-- Page 4 -->
+<section>
+  <img src="images/page4.png" style="height:650px;">
+</section>
+
+<!-- Page 5 -->
+<section>
+  <img src="images/page5.png" style="height:650px;">
+</section>
+
+<!-- Page 6 -->
+<section>
+  <img src="images/page6.png" style="height:650px;">
+</section>
+
+<!-- Page 7 -->
+<section>
+  <img src="images/page7.png" style="height:650px;">
+</section>
+
+<!-- Page 8 -->
+<section>
+  <img src="images/page8.png" style="height:650px;">
+</section>
+
+<!-- Page 9 -->
+<section>
+  <img src="images/page9.png" style="height:650px;">
+</section>
+
+<!-- Page 10 -->
+<section>
+  <img src="images/page10.png" style="height:650px;">
+</section>
+
+<!-- Page 11 -->
+<section>
+  <img src="images/page11.png" style="height:650px;">
+</section>
+
+<!-- Page 12 -->
+<section>
+  <img src="images/page12.png" style="height:650px;">
+</section>
+
+<!-- Page 13 -->
+<section>
+  <img src="images/page13.png" style="height:650px;">
+</section>
+
+<!-- Page 14 -->
+<section>
+  <img src="images/page14.png" style="height:650px;">
+</section>
+
+<!-- Page 15 -->
+<section>
+  <img src="images/page15.png" style="height:650px;">
+</section>
+
+</div>
+</div>
+
+<script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+<script>
+  Reveal.initialize({
+    hash: true,
+    slideNumber: true
+  });
+</script>
+
+</body>
+</html>
